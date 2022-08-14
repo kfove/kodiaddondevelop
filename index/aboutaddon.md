@@ -46,12 +46,8 @@ Kodi 包括一个内置的 [Python](https://zh.m.wikipedia.org/zh-hans/Python) �
 
 如果您不熟悉 Python 编程（或刚接触 Kodi Python），最简单的入门方法是使用脚本。以 Kodi Python 脚本编写的传统 Hello World 程序如下所示：
 
-'''
-
 ```python
 print("Hello World!")
 ```
-
-'''
 
 这与您在 Python 命令行中输入的代码相同，因为 Kodi 运行功能齐全的标准 Python 解释器（有关当前版本号和包含模块的更多信息，请参阅下面的环境详细信息）。 如果您已经熟悉 Python 编程，那么唯一的新挑战是学习允许您从 Kodi 收集信息并操作图形用户界面 (GUI) 的自定义模块。 有一些优秀的教程可以向您介绍 Kodi 脚本（以及一般的 Python）。
